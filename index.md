@@ -32,7 +32,7 @@ AIRDeM --Artificial Intelligence for Research Data Management, explores the appl
 
 ## Call for Contributions
 - [DaMaLOS](https://zbmed.github.io/damalos/cfp)
-- [AIRDeM]()
+- [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
 
 ## Submission Process
 DaMaLOS and AIRDeM use a joint [submission system](). For specific information on the accepted submissions, please visit [DaMaLOS Submissions](https://zbmed.github.io/damalos/submission) and [AIRDeM]()
