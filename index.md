@@ -20,7 +20,7 @@ permalink: /
   </tr>
 </table>
 
-MaRA 2025 features [DaMaLOS](https://zbmed.github.io/damalos) and [AIRDeM]() as joint workshops on Management for Research Aftifacts. Value of management plans is broadly recognized by the research community particularly when it comes to research data. However, there are other research artifacts (e.g., software, workflows) that also need to be managed and aligned to research data (targeted by DaMaLOS). In addition to management plans, there is also a need of machine-actionability, i.e., a semantic metadata layer improving FAIR and enabling, for instance, the creation of knowledge graphs (targeted by DaMaLOS and AIRDeM). Management plans and machine-actionablity benefit from Artificial Intelligence approaches to, for instance, improve metadata or connect research artifacts to each other (targeted by DaMaLOs and AIRDeM).
+MaRA 2025 features [DaMaLOS](https://zbmed.github.io/damalos) and [AIRDeM](https://ai4rdm.github.io/AIRDeM/) as joint workshops on Management for Research Aftifacts. Value of management plans is broadly recognized by the research community particularly when it comes to research data. However, there are other research artifacts (e.g., software, workflows) that also need to be managed and aligned to research data (targeted by DaMaLOS). In addition to management plans, there is also a need of machine-actionability, i.e., a semantic metadata layer improving FAIR and enabling, for instance, the creation of knowledge graphs (targeted by DaMaLOS and AIRDeM). Management plans and machine-actionablity benefit from Artificial Intelligence approaches to, for instance, improve metadata or connect research artifacts to each other (targeted by DaMaLOs and AIRDeM).
 
 MaRA is part of [NFDI4DataScience](https://www.nfdi4datascience.de/) and [NFDI4Health](https://www.nfdi4health.de/en/), two consortia part of the German National Research Data Infrastructures [NFDI](https://www.nfdi.de/?lang=en).
 
@@ -35,7 +35,7 @@ AIRDeM --Artificial Intelligence for Research Data Management, explores the appl
 - [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
 
 ## Submission Process
-DaMaLOS and AIRDeM use a joint [submission system](). For specific information on the accepted submissions, please visit [DaMaLOS Submissions](https://zbmed.github.io/damalos/submission) and [AIRDeM]()
+DaMaLOS and AIRDeM use a joint [submission system](). For specific information on the accepted submissions, please visit [DaMaLOS Submissions](https://zbmed.github.io/damalos/submission) and [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
 
 ## Important Dates
 - Submission deadline: 20th of March, 2025
