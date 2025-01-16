@@ -30,7 +30,7 @@ MaRA is part of [NFDI4DataScience](https://www.nfdi4datascience.de/) and [NFDI4H
 DaMaLOS --Fifth Workshop on Metadata and Research (objects) Management for Linked Open Science, explores requirements for research digital objects and their corresponding management plans to effectively instantiate an integrated layer supporting Linked Open Science. DaMaLOS welcomes contributions aligned to the following topics: **machine-actionable DMPs and SMPs; AI (e.g., machine/deep learning) approaches around rich metadata; FAIRification; FAIR by design; FAIR tooling; recognition, publication and citation for data, software and other research digital objects, and scientometrics beyond the scholarly publication** (i.e., combining the different digital objects playing a role in the research cycle)
 
 ## AIRDeM
-AIRDeM --Artificial Intelligence for Research Data Management, explores the application of AI-driven solutions and interdisciplinary approaches for RDM, focussing on topics like automated metadata extraction, annotation, and generation, and how these AI techniques can help in improving data findability, accessibility, and quality, interpretability and searchability.
+AIRDeM --First Workshop on Artificial Intelligence for Research Data Management, explores the application of AI-driven solutions and interdisciplinary approaches for RDM, focussing on topics like automated metadata extraction, annotation, and generation, and how these AI techniques can help in improving data findability, accessibility, and quality, interpretability and searchability.
 
 ## Call for Contributions
 - [DaMaLOS](https://zbmed.github.io/damalos/cfp)

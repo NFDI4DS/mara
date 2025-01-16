@@ -1,5 +1,6 @@
 title: "DaMaLOS and AIRDeM @ ESWC 2025"
 remote_theme: pmarsceill/just-the-docs
+logo: ./mara.gif
 search_enabled: false
 aux_links:
   "Home": "../index"
