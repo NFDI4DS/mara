@@ -32,12 +32,10 @@ DaMaLOS --Fifth Workshop on Metadata and Research (objects) Management for Linke
 ## AIRDeM
 AIRDeM --First Workshop on Artificial Intelligence for Research Data Management, explores the application of AI-driven solutions and interdisciplinary approaches for RDM, focussing on topics like automated metadata extraction, annotation, and generation, and how these AI techniques can help in improving data findability, accessibility, and quality, interpretability and searchability.
 
-## Call for Contributions
-- [DaMaLOS](https://zbmed.github.io/damalos/cfp)
-- [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
+## Call for Contributions and submission process
+DaMaLOS and AIRDeM use a joint [submission system](https://app.oxfordabstracts.com/stages/77706/submitter). For specific information on the types of contributions and topics, please visit [DaMaLOS](https://zbmed.github.io/damalos/) and/or [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
 
-## Submission Process
-DaMaLOS and AIRDeM use a joint [submission system](). For specific information on the accepted submissions, please visit [DaMaLOS Submissions](https://zbmed.github.io/damalos/submission) and [AIRDeM](https://ai4rdm.github.io/AIRDeM/)
+Submissions must be in English. Proceedings of the workshop will be publicly available under [CC-by 4.0 license](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} in [PUBLISSO FRL](https://repository.publisso.de/); by submitting you agree to the use of the CC-By license for accepted papers. Papers should be formatted according to [LNCS templates](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}.
 
 ## Important Dates
 - Submission deadline: 20th of March, 2025
