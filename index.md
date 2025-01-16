@@ -10,7 +10,9 @@ permalink: /
 <table>
   <tr>
     <td style="text-align:left">
-      &nbsp;
+      <a href="https://zbmed.github.io/damalos" target="_blank">DaMaLOS</a>
+      <br/>
+      <a href="https://ai4rdm.github.io/AIRDeM/" target="_blank">AIRDeM</a>
     </td>
     <td>
     <strong>Joint Workshops on Management for Research Artifacts - MaRA 2025</strong>
